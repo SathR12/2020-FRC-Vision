@@ -10,3 +10,6 @@ My vision coding projects for the 2020 FRC league
 
 ![image](https://user-images.githubusercontent.com/74515743/160965006-3819c282-7669-4072-a913-5a8483356aaa.png)
 
+## Credits
+
+The images and video in folder test_imgs is cloned from repo MLCV 
